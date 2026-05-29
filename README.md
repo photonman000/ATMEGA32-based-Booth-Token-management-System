@@ -292,19 +292,7 @@ project_name.hex
 
 4. Run simulation ▶️
 
----
 
-## 📸 Project Demonstration
-
-Add screenshots here:
-
-### Circuit Diagram
-
-```markdown
-<img width="778" height="543" alt="image" src="https://github.com/user-attachments/assets/be5a70cb-5a09-4fe7-9cbf-41d57fcbe406" />
-
-```
----
 
 ## 🌍 Applications
 
